@@ -26,9 +26,17 @@ img {
   font-weight: bold;
 }
 
-#left img, #right img {
-  padding: 5px;
-  height: 250px;
+#left img {
+  padding: 2%;
+  height: 30%;
+  width: 100%;
+}
+
+#right img {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 2%;
+  height: 45%;
   width: 100%;
 }
 
