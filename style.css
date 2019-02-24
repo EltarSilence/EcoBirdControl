@@ -1,0 +1,38 @@
+body {
+  padding: 6px;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 0 20px 0px gray;
+}
+
+.row {
+  text-align: center;
+  padding: 10px;
+}
+
+#left {
+  padding: 20px;
+  color: white;
+  background-color: #182C61;
+}
+
+#left .foto {
+  padding-bottom: 20px;
+}
+
+#left #title {
+  font-weight: bold;
+}
+
+#left img, #right img {
+  padding: 5px;
+  height: 250px;
+  width: 100%;
+}
+
+footer {
+  color: white;
+  background-color: #2C3A47;
+}
